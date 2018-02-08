@@ -1,1 +1,2 @@
-initial git file
+initial git file.
+New text is here. Commit is possible now
