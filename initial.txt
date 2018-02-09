@@ -4,4 +4,8 @@ New text is here. Commit is possible now
 and this string I wrote on my laptop
 and this line will not be commited
 
+<<<<<<< HEAD
 and it is on laptop
+=======
+and this line is here, on the server
+>>>>>>> c76316da1aae953b2957c01d741937284b01b36c
