@@ -1,1 +1,3 @@
 second file in the git repository
+
+and this text si new for commit
