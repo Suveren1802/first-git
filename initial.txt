@@ -2,3 +2,4 @@ initial git file.
 New text is here. Commit is possible now
 09 February. this string is written online
 and this string I wrote on my laptop
+and this line will not be commited
