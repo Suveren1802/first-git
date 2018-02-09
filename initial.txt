@@ -11,3 +11,6 @@ and this line is here, on the server
 >>>>>>> c76316da1aae953b2957c01d741937284b01b36c
 
 new line for commining
+
+---------------------------
+this text is for the second branch in my repository
